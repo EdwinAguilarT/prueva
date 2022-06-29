@@ -45,7 +45,7 @@
             <p>...</p>
             <p>...</p>
         <li>Ordenar Lista Doble</li>
-            <p>Este es un ejhemplogn https://es-la.facebook.com/Code.org/photos/ </p>
+            <p>Este es un ejhemplogn /home/edwin/Descargas/Code.png</p>
             <p>...</p>
             <p>...</p>
     </ol>
