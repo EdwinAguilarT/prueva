@@ -46,7 +46,7 @@
             <p>...</p>
         <li>Ordenar Lista Doble</li>
             <p>Este es un ejhemplogn 
-                <img = src "Code.png"></p>
+                <img = src "imagenes/Code.png"></p>
             <p>...</p>
             <p>...</p>
     </ol>
